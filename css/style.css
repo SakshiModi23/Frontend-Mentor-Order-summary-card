@@ -17,7 +17,7 @@ font-family: 'Red Hat Display', sans-serif;
   left: 40%;
   text-align: center;
   background-image: url('images/pattern-background-desktop.svg');
-
+width: 18rem;
 }
 
 @media screen and (max-width: 480px) {
