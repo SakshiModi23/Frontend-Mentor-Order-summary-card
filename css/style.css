@@ -16,6 +16,8 @@ font-family: 'Red Hat Display', sans-serif;
   top: 10%;
   left: 40%;
   text-align: center;
+  background-image: url('images/pattern-background-desktop.svg');
+
 }
 
 @media screen and (max-width: 480px) {
@@ -28,6 +30,7 @@ font-family: 'Red Hat Display', sans-serif;
 .card-title{
   font-family: font-family: 'Red Hat Display', sans-serif;
   font-weight: 900;
+  font-size: 1.25rem;
 }
 .card-text{
   color: hsl(224, 23%, 55%);
